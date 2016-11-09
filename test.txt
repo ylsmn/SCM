@@ -1,3 +1,10 @@
 Edited #1 in develop
 
 Edited #2 in develop
+
+Should be conflict
+Should be in conflict 2
+Should be conflict
+Should be in conflict 2
+Should be conflict
+Should be in conflict 2
