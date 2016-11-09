@@ -3,3 +3,6 @@ This is first line
 Edited #2 in develop
 
 This is second line
+
+Should be conflict
+Should be in conflict 2
