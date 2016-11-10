@@ -7,12 +7,14 @@ Edited #1 in develop
 
 This is first line
 
+
 Edited #2 in develop
 
 Should be conflict
 Should be in conflict 2
 Should be conflict
 Should be in conflict 2
+
 Should be conflict
 Should be in conflict 2
 
@@ -23,3 +25,11 @@ This is second line
 Should be conflict
 Should be in conflict 2
 
+
+This is first line
+Edited #2 in develop
+
+This is second line
+
+Should be conflict
+Should be in conflict 2

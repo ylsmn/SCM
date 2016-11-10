@@ -1,3 +1,4 @@
+
 Semua
 
 
@@ -5,6 +6,5 @@ Semua
 Ikutan
 
 
-Kacau
 
-Semua
+Kacau
